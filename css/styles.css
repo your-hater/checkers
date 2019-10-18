@@ -102,3 +102,8 @@ html {
 .checkers-row:nth-child(even) .cell:nth-child(odd) {
   background: white;
 }
+
+.cell img{
+  height:30px;
+  width:30px
+}
